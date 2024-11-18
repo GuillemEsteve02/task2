@@ -1,0 +1,3042 @@
+{ "league":[
+  {
+    "id": 1,
+    "name": "Deportivo Alavés",
+    "stadium": "Estadio Mendizorrotza",
+    "city": "Vitoria-Gasteiz",
+    "coach": "Luis García Plaza",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+    "matches": [[
+            {
+              "jornada": 1,
+              "rival": "Celta",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+              "home": false,
+              "date": "2024-08-16",
+              "time": "19:00",
+              "result": "draw",
+              "score": "2-1"
+            },
+            {
+              "jornada": 2,
+              "rival": "Betis",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/185.png",
+              "home": true,
+              "date": "2024-08-25",
+              "time": "19:15",
+              "result": "draw",
+              "score": "0-0"
+            },
+            {
+              "jornada": 3,
+              "rival": "R. Sociedad",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/188.png",
+              "home": false,
+              "date": "2024-08-28",
+              "time": "21:30",
+              "result": "loss",
+              "score": "1-2"
+            },
+            {
+              "jornada": 4,
+              "rival": "Las Palmas",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+              "home": true,
+              "date": "2024-09-01",
+              "time": "17:00",
+              "result": "win",
+              "score": "2-0"
+            },
+            {
+              "jornada": 5,
+              "rival": "Espanyol",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/177.png",
+              "home": false,
+              "date": "2024-09-14",
+              "time": "16:15",
+              "result": "loss",
+              "score": "3-2"
+            },
+            {
+              "jornada": 6,
+              "rival": "Sevilla",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+              "home": true,
+              "date": "2024-09-20",
+              "time": "21:00",
+              "result": "win",
+              "score": "2-1"
+            },
+            {
+              "jornada": 7,
+              "rival": "Real Madrid",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+              "home": false,
+              "date": "2024-09-24",
+              "time": null,
+              "result": "loss",
+              "score": "3-2"
+            },
+            {
+              "jornada": 8,
+              "rival": "Getafe",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+              "home": false,
+              "date": "2024-10-06",
+              "time": null,
+              "result": "loss",
+              "score": "2-0"
+            },
+            {
+              "jornada": 9,
+              "rival": "Barcelona",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+              "home": true,
+              "date": "2024-10-06",
+              "time": "16:15",
+              "result": "loss",
+              "score": "0-3"
+            },
+            {
+              "jornada": 10,
+              "rival": "Valladolid",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+              "home": true,
+              "date": "2024-10-26",
+              "time": null,
+              "result": "loss",
+              "score": "2-3"
+            },
+            {
+              "jornada": 11,
+              "rival": "Mallorca",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+              "home": true,
+              "date": "2024-11-01",
+              "time": null,
+              "result": "win",
+              "score": "1-0"
+            },
+            {
+              "jornada": 12,
+              "rival": "Leganés",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+              "home": false,
+              "date": "2024-11-01",
+              "time": null,
+              "result": "loss",
+              "score": "3-4"
+            },
+            {
+              "jornada": 13,
+              "rival": "Villarreal",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/449.png",
+              "home": true,
+              "date": "2024-11-02",
+              "time": "16:15",
+              "result": "scheduled",
+              "score": null
+            },
+            {
+              "jornada": 14,
+              "rival": "Atlético",
+              "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png",
+              "home": false,
+              "date": "2024-11-26",
+              "time": "16:15",
+              "result": "scheduled",
+              "score": null
+            }
+          ]]
+          
+  },
+  {
+    "id": 2,
+    "name": "Athletic Club",
+    "stadium": "San Mamés",
+    "city": "Bilbao",
+    "coach": "Ernesto Valverde",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": true,
+          "date": "2024-08-04",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 2,
+          "rival": "Barcelona",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+          "home": false,
+          "date": "2024-08-11",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 3,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": true,
+          "date": "2024-09-08",
+          "time": null,
+          "result": "win",
+          "score": "1-0"
+        },
+        {
+          "jornada": 4,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": false,
+          "date": "2024-09-16",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 5,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-09-22",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 6,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": false,
+          "date": "2024-09-25",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 7,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": true,
+          "date": "2024-10-02",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 8,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": false,
+          "date": "2024-10-08",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 9,
+          "rival": "Villarreal",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/449.png",
+          "home": true,
+          "date": "2024-10-13",
+          "time": null,
+          "result": "win",
+          "score": "3-1"
+        },
+        {
+          "jornada": 10,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-10-18",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 11,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-10-22",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 12,
+          "rival": "Espanyol",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/177.png",
+          "home": false,
+          "date": "2024-11-05",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 13,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": true,
+          "date": "2024-11-13",
+          "time": "14:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "R. Sociedad",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/188.png",
+          "home": false,
+          "date": "2024-11-18",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Atlético de Madrid",
+    "stadium": "Estadio Wanda Metropolitano",
+    "city": "Madrid",
+    "coach": "Diego Simeone",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Villarreal",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/449.png",
+          "home": true,
+          "date": "2024-08-10",
+          "time": null,
+          "result": "draw",
+          "score": "2-2"
+        },
+        {
+          "jornada": 2,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-08-10",
+          "time": null,
+          "result": "win",
+          "score": "3-0"
+        },
+        {
+          "jornada": 3,
+          "rival": "Espanyol",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/177.png",
+          "home": true,
+          "date": "2024-08-22",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 4,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": false,
+          "date": "2024-09-01",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 5,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-09-08",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 6,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": false,
+          "date": "2024-09-13",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 7,
+          "rival": "Las Palmas",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+          "home": true,
+          "date": "2024-09-19",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 8,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": false,
+          "date": "2024-09-27",
+          "time": null,
+          "result": "win",
+          "score": "4-1"
+        },
+        {
+          "jornada": 9,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-10-02",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 10,
+          "rival": "Valladolid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+          "home": false,
+          "date": "2024-10-09",
+          "time": null,
+          "result": "win",
+          "score": "3-0"
+        },
+        {
+          "jornada": 11,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": true,
+          "date": "2024-10-16",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 12,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": false,
+          "date": "2024-10-26",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 13,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": true,
+          "date": "2024-11-01",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": false,
+          "date": "2024-11-14",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "name": "FC Barcelona",
+    "stadium": "Spotify Camp Nou",
+    "city": "Barcelona",
+    "coach": "Hansi Flick",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": false,
+          "date": "2024-08-04",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 2,
+          "rival": "Athletic",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png",
+          "home": true,
+          "date": "2024-08-11",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 3,
+          "rival": "Rayo",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+          "home": false,
+          "date": "2024-09-19",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 4,
+          "rival": "Valladolid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+          "home": true,
+          "date": "2024-09-27",
+          "time": null,
+          "result": "win",
+          "score": "7-0"
+        },
+        {
+          "jornada": 5,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-10-03",
+          "time": null,
+          "result": "win",
+          "score": "4-1"
+        },
+        {
+          "jornada": 6,
+          "rival": "Villarreal",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/449.png",
+          "home": true,
+          "date": "2024-10-09",
+          "time": null,
+          "result": "loss",
+          "score": "1-5"
+        },
+        {
+          "jornada": 7,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": false,
+          "date": "2024-10-13",
+          "time": null,
+          "result": "win",
+          "score": "1-0"
+        },
+        {
+          "jornada": 8,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": true,
+          "date": "2024-10-18",
+          "time": null,
+          "result": "loss",
+          "score": "2-4"
+        },
+        {
+          "jornada": 9,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": false,
+          "date": "2024-10-22",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 10,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": true,
+          "date": "2024-10-29",
+          "time": null,
+          "result": "win",
+          "score": "5-1"
+        },
+        {
+          "jornada": 11,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": false,
+          "date": "2024-11-03",
+          "time": null,
+          "result": "win",
+          "score": "4-0"
+        },
+        {
+          "jornada": 12,
+          "rival": "R. Sociedad",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/188.png",
+          "home": true,
+          "date": "2024-11-09",
+          "time": null,
+          "result": "win",
+          "score": "3-1"
+        },
+        {
+          "jornada": 13,
+          "rival": "Las Palmas",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+          "home": false,
+          "date": "2024-11-15",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-11-22",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Real Betis",
+    "stadium": "Estadio Benito Villamarín",
+    "city": "Seville",
+    "coach": "Manuel Pellegrini",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/185.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-08-04",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 2,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": true,
+          "date": "2024-08-16",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 3,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": false,
+          "date": "2024-08-23",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 4,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": true,
+          "date": "2024-09-01",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 5,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": false,
+          "date": "2024-09-07",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 6,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-09-15",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 7,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": false,
+          "date": "2024-09-28",
+          "time": null,
+          "result": "loss",
+          "score": "0-3"
+        },
+        {
+          "jornada": 8,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": true,
+          "date": "2024-10-02",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 9,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": false,
+          "date": "2024-10-08",
+          "time": null,
+          "result": "win",
+          "score": "3-1"
+        },
+        {
+          "jornada": 10,
+          "rival": "Atlético",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png",
+          "home": true,
+          "date": "2024-10-13",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 11,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": false,
+          "date": "2024-10-26",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 12,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-11-05",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 13,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-11-09",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Valladolid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+          "home": true,
+          "date": "2024-11-17",
+          "time": "14:00",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Celta de Vigo",
+    "stadium": "Estadio Municipal de Balaídos",
+    "city": "Vigo",
+    "coach": "Carlos Carvalhal",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": true,
+          "date": "2024-08-05",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 2,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": false,
+          "date": "2024-08-14",
+          "time": null,
+          "result": "loss",
+          "score": "1-3"
+        },
+        {
+          "jornada": 3,
+          "rival": "Barcelona",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+          "home": true,
+          "date": "2024-08-26",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 4,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": false,
+          "date": "2024-09-03",
+          "time": null,
+          "result": "loss",
+          "score": "2-3"
+        },
+        {
+          "jornada": 5,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": true,
+          "date": "2024-09-08",
+          "time": null,
+          "result": "win",
+          "score": "3-1"
+        },
+        {
+          "jornada": 6,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": false,
+          "date": "2024-09-16",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 7,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": true,
+          "date": "2024-09-20",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 8,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-09-27",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 9,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": true,
+          "date": "2024-10-01",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 10,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": false,
+          "date": "2024-10-05",
+          "time": null,
+          "result": "loss",
+          "score": "1-4"
+        },
+        {
+          "jornada": 11,
+          "rival": "Betis",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/185.png",
+          "home": true,
+          "date": "2024-10-10",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 12,
+          "rival": "Las Palmas",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+          "home": false,
+          "date": "2024-10-15",
+          "time": null,
+          "result": "win",
+          "score": "1-0"
+        },
+        {
+          "jornada": 13,
+          "rival": "Athletic",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png",
+          "home": true,
+          "date": "2024-10-23",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Barcelona",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+          "home": false,
+          "date": "2024-11-03",
+          "time": "16:15",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "name": "RCD Espanyol",
+    "stadium": "RCDE Stadium",
+    "city": "Cornellà de Llobregat",
+    "coach": "Diego Martínez",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/177.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-08-09",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 2,
+          "rival": "R. Sociedad",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/188.png",
+          "home": false,
+          "date": "2024-08-20",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 3,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": true,
+          "date": "2024-09-04",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 4,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-09-07",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 5,
+          "rival": "Rayo",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+          "home": true,
+          "date": "2024-09-10",
+          "time": null,
+          "result": "win",
+          "score": "3-1"
+        },
+        {
+          "jornada": 6,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": false,
+          "date": "2024-09-19",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 7,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": true,
+          "date": "2024-09-27",
+          "time": null,
+          "result": "loss",
+          "score": "1-4"
+        },
+        {
+          "jornada": 8,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": false,
+          "date": "2024-10-01",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 9,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": true,
+          "date": "2024-10-05",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 10,
+          "rival": "Las Palmas",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+          "home": false,
+          "date": "2024-10-20",
+          "time": null,
+          "result": "loss",
+          "score": "1-3"
+        },
+        {
+          "jornada": 11,
+          "rival": "Barcelona",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+          "home": true,
+          "date": "2024-10-27",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 12,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": false,
+          "date": "2024-11-03",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 13,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-11-09",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Athletic",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png",
+          "home": false,
+          "date": "2024-11-19",
+          "time": "16:15",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Getafe CF",
+    "stadium": "Coliseum Alfonso Pérez",
+    "city": "Getafe",
+    "coach": "José Bordalás",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Rayo",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+          "home": false,
+          "date": "2024-08-07",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 2,
+          "rival": "Villarreal",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/449.png",
+          "home": true,
+          "date": "2024-08-18",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 3,
+          "rival": "Athletic",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png",
+          "home": false,
+          "date": "2024-09-04",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 4,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": true,
+          "date": "2024-09-10",
+          "time": null,
+          "result": "loss",
+          "score": "0-3"
+        },
+        {
+          "jornada": 5,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": false,
+          "date": "2024-09-18",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 6,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": true,
+          "date": "2024-09-23",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 7,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": false,
+          "date": "2024-09-29",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 8,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-10-07",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 9,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-10-19",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 10,
+          "rival": "Valladolid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+          "home": true,
+          "date": "2024-10-25",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 11,
+          "rival": "Betis",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/185.png",
+          "home": false,
+          "date": "2024-10-29",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 12,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-11-02",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 13,
+          "rival": "Atlético",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png",
+          "home": false,
+          "date": "2024-11-11",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Las Palmas",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+          "home": true,
+          "date": "2024-11-27",
+          "time": "16:15",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Girona FC",
+    "stadium": "Estadi Montilivi",
+    "city": "Girona",
+    "coach": "Michel Sánchez",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": true,
+          "date": "2024-08-01",
+          "time": null,
+          "result": "draw",
+          "score": "2-2"
+        },
+        {
+          "jornada": 2,
+          "rival": "Atlético",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png",
+          "home": false,
+          "date": "2024-08-16",
+          "time": null,
+          "result": "loss",
+          "score": "1-3"
+        },
+        {
+          "jornada": 3,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": true,
+          "date": "2024-09-01",
+          "time": null,
+          "result": "win",
+          "score": "4-0"
+        },
+        {
+          "jornada": 4,
+          "rival": "Barcelona",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+          "home": false,
+          "date": "2024-09-04",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 5,
+          "rival": "Rayo",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+          "home": true,
+          "date": "2024-09-11",
+          "time": null,
+          "result": "win",
+          "score": "3-1"
+        },
+        {
+          "jornada": 6,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": false,
+          "date": "2024-09-19",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 7,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-09-25",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 8,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": false,
+          "date": "2024-10-02",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 9,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": true,
+          "date": "2024-10-10",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 10,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": false,
+          "date": "2024-10-24",
+          "time": null,
+          "result": "loss",
+          "score": "0-3"
+        },
+        {
+          "jornada": 11,
+          "rival": "Valladolid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+          "home": true,
+          "date": "2024-10-29",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 12,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": false,
+          "date": "2024-11-05",
+          "time": null,
+          "result": "loss",
+          "score": "3-4"
+        },
+        {
+          "jornada": 13,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": true,
+          "date": "2024-11-14",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Las Palmas",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+          "home": false,
+          "date": "2024-11-28",
+          "time": "14:00",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "name": "UD Las Palmas",
+    "stadium": "Estadio de Gran Canaria",
+    "city": "Las Palmas",
+    "coach": "Juan Manuel Rodríguez",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": false,
+          "date": "2024-08-09",
+          "time": null,
+          "result": "draw",
+          "score": "2-2"
+        },
+        {
+          "jornada": 2,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": true,
+          "date": "2024-08-10",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 3,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": false,
+          "date": "2024-09-08",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 4,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": true,
+          "date": "2024-09-14",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 5,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": false,
+          "date": "2024-09-19",
+          "time": null,
+          "result": "loss",
+          "score": "2-3"
+        },
+        {
+          "jornada": 6,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": true,
+          "date": "2024-09-27",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 7,
+          "rival": "Atlético",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png",
+          "home": false,
+          "date": "2024-09-30",
+          "time": null,
+          "result": "loss",
+          "score": "1-0"
+        },
+        {
+          "jornada": 8,
+          "rival": "Espanyol",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/177.png",
+          "home": true,
+          "date": "2024-10-08",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 9,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": false,
+          "date": "2024-10-18",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 10,
+          "rival": "Rayo",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+          "home": true,
+          "date": "2024-10-24",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 11,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": false,
+          "date": "2024-10-29",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 12,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": true,
+          "date": "2024-11-03",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 13,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": false,
+          "date": "2024-11-15",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-11-25",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "name": "CD Leganés",
+    "stadium": "Estadio Municipal de Butarque",
+    "city": "Leganés",
+    "coach": "Asier Garitano",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": true,
+          "date": "2024-08-10",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 2,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": false,
+          "date": "2024-08-14",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 3,
+          "rival": "Rayo",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+          "home": true,
+          "date": "2024-09-02",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 4,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": false,
+          "date": "2024-09-08",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 5,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-09-17",
+          "time": null,
+          "result": "win",
+          "score": "3-2"
+        },
+        {
+          "jornada": 6,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": false,
+          "date": "2024-09-26",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 7,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": true,
+          "date": "2024-09-29",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 8,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": false,
+          "date": "2024-10-03",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 9,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": true,
+          "date": "2024-10-18",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 10,
+          "rival": "Atlético",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png",
+          "home": false,
+          "date": "2024-10-23",
+          "time": null,
+          "result": "loss",
+          "score": "0-3"
+        },
+        {
+          "jornada": 11,
+          "rival": "Betis",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/185.png",
+          "home": true,
+          "date": "2024-10-27",
+          "time": null,
+          "result": "loss",
+          "score": "0-3"
+        },
+        {
+          "jornada": 12,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": false,
+          "date": "2024-11-09",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 13,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": true,
+          "date": "2024-11-16",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Las Palmas",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+          "home": false,
+          "date": "2024-11-23",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Real Mallorca",
+    "stadium": "Estadi de Son Moix",
+    "city": "Palma",
+    "coach": "Javier Aguirre",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-08-08",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 2,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": false,
+          "date": "2024-08-11",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 3,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": true,
+          "date": "2024-09-17",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 4,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": false,
+          "date": "2024-09-20",
+          "time": null,
+          "result": "win",
+          "score": "1-0"
+        },
+        {
+          "jornada": 5,
+          "rival": "Rayo",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+          "home": true,
+          "date": "2024-09-26",
+          "time": null,
+          "result": "loss",
+          "score": "0-3"
+        },
+        {
+          "jornada": 6,
+          "rival": "Barcelona",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+          "home": false,
+          "date": "2024-09-28",
+          "time": null,
+          "result": "loss",
+          "score": "0-4"
+        },
+        {
+          "jornada": 7,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": true,
+          "date": "2024-09-30",
+          "time": null,
+          "result": "win",
+          "score": "3-2"
+        },
+        {
+          "jornada": 8,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": false,
+          "date": "2024-10-08",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 9,
+          "rival": "Atlético",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png",
+          "home": true,
+          "date": "2024-10-16",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 10,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": false,
+          "date": "2024-10-22",
+          "time": null,
+          "result": "loss",
+          "score": "2-3"
+        },
+        {
+          "jornada": 11,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": true,
+          "date": "2024-10-30",
+          "time": null,
+          "result": "win",
+          "score": "4-1"
+        },
+        {
+          "jornada": 12,
+          "rival": "Las Palmas",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+          "home": false,
+          "date": "2024-11-04",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 13,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-11-10",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": false,
+          "date": "2024-11-20",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "name": "CA Osasuna",
+    "stadium": "Estadio El Sadar",
+    "city": "Pamplona",
+    "coach": "Jagoba Arrasate",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": true,
+          "date": "2024-08-10",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 2,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": false,
+          "date": "2024-08-18",
+          "time": null,
+          "result": "win",
+          "score": "1-0"
+        },
+        {
+          "jornada": 3,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-09-04",
+          "time": null,
+          "result": "loss",
+          "score": "2-3"
+        },
+        {
+          "jornada": 4,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": false,
+          "date": "2024-09-08",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 5,
+          "rival": "Athletic",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png",
+          "home": true,
+          "date": "2024-09-19",
+          "time": null,
+          "result": "loss",
+          "score": "3-2"
+        },
+        {
+          "jornada": 6,
+          "rival": "Valladolid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+          "home": false,
+          "date": "2024-09-23",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 7,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": true,
+          "date": "2024-09-27",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 8,
+          "rival": "Barcelona",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+          "home": false,
+          "date": "2024-10-01",
+          "time": null,
+          "result": "loss",
+          "score": "0-4"
+        },
+        {
+          "jornada": 9,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": true,
+          "date": "2024-10-06",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 10,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": false,
+          "date": "2024-10-09",
+          "time": null,
+          "result": "loss",
+          "score": "2-3"
+        },
+        {
+          "jornada": 11,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": true,
+          "date": "2024-10-14",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 12,
+          "rival": "Valladolid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+          "home": false,
+          "date": "2024-10-22",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 13,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-11-01",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-11-16",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Rayo Vallecano",
+    "stadium": "Estadio de Vallecas",
+    "city": "Madrid",
+    "coach": "Andoni Iraola",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Atlético",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png",
+          "home": false,
+          "date": "2024-08-13",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 2,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": true,
+          "date": "2024-08-15",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 3,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": false,
+          "date": "2024-09-07",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 4,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-09-09",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 5,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": false,
+          "date": "2024-09-19",
+          "time": null,
+          "result": "loss",
+          "score": "0-3"
+        },
+        {
+          "jornada": 6,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": true,
+          "date": "2024-09-27",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 7,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": false,
+          "date": "2024-09-29",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 8,
+          "rival": "Valladolid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+          "home": true,
+          "date": "2024-10-08",
+          "time": null,
+          "result": "win",
+          "score": "3-0"
+        },
+        {
+          "jornada": 9,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": false,
+          "date": "2024-10-12",
+          "time": null,
+          "result": "loss",
+          "score": "2-3"
+        },
+        {
+          "jornada": 10,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": true,
+          "date": "2024-10-16",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 11,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": false,
+          "date": "2024-10-20",
+          "time": null,
+          "result": "loss",
+          "score": "0-3"
+        },
+        {
+          "jornada": 12,
+          "rival": "Betis",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/185.png",
+          "home": true,
+          "date": "2024-11-11",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 13,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": false,
+          "date": "2024-11-17",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": true,
+          "date": "2024-11-26",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Real Madrid",
+    "stadium": "Santiago Bernabéu",
+    "city": "Madrid",
+    "coach": "Carlo Ancelotti",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-08-09",
+          "time": null,
+          "result": "win",
+          "score": "1-0"
+        },
+        {
+          "jornada": 2,
+          "rival": "Valladolid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+          "home": false,
+          "date": "2024-08-17",
+          "time": null,
+          "result": "win",
+          "score": "3-0"
+        },
+        {
+          "jornada": 3,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": true,
+          "date": "2024-08-30",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 4,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": false,
+          "date": "2024-09-18",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 5,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": true,
+          "date": "2024-09-25",
+          "time": null,
+          "result": "win",
+          "score": "3-1"
+        },
+        {
+          "jornada": 6,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": false,
+          "date": "2024-09-27",
+          "time": null,
+          "result": "win",
+          "score": "4-1"
+        },
+        {
+          "jornada": 7,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": true,
+          "date": "2024-09-29",
+          "time": null,
+          "result": "win",
+          "score": "3-2"
+        },
+        {
+          "jornada": 8,
+          "rival": "Barcelona",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+          "home": false,
+          "date": "2024-10-02",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 9,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": true,
+          "date": "2024-10-11",
+          "time": null,
+          "result": "win",
+          "score": "3-2"
+        },
+        {
+          "jornada": 10,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": false,
+          "date": "2024-10-26",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 11,
+          "rival": "Rayo",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+          "home": true,
+          "date": "2024-10-23",
+          "time": null,
+          "result": "win",
+          "score": "4-1"
+        },
+        {
+          "jornada": 12,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": false,
+          "date": "2024-11-12",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 13,
+          "rival": "Betis",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/185.png",
+          "home": true,
+          "date": "2024-11-18",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": false,
+          "date": "2024-11-29",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Real Sociedad",
+    "stadium": "Reale Arena",
+    "city": "San Sebastián",
+    "coach": "Imanol Alguacil",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/188.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Rayo",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+          "home": true,
+          "date": "2024-08-06",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 2,
+          "rival": "Espanyol",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/177.png",
+          "home": false,
+          "date": "2024-08-10",
+          "time": null,
+          "result": "win",
+          "score": "1-0"
+        },
+        {
+          "jornada": 3,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": true,
+          "date": "2024-08-17",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 4,
+          "rival": "Barcelona",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+          "home": false,
+          "date": "2024-09-03",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 5,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-09-10",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 6,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": false,
+          "date": "2024-09-17",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 7,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": true,
+          "date": "2024-09-22",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 8,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": false,
+          "date": "2024-09-28",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 9,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": true,
+          "date": "2024-10-01",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 10,
+          "rival": "Villarreal",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/449.png",
+          "home": false,
+          "date": "2024-10-08",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 11,
+          "rival": "Athletic",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png",
+          "home": true,
+          "date": "2024-10-17",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 12,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-11-04",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 13,
+          "rival": "Barcelona",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+          "home": true,
+          "date": "2024-11-08",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": false,
+          "date": "2024-11-16",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Sevilla FC",
+    "stadium": "Estadio Ramón Sánchez-Pizjuán",
+    "city": "Seville",
+    "coach": "José Luis Mendilibar",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Las Palmas",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+          "home": true,
+          "date": "2024-08-25",
+          "time": null,
+          "result": "draw",
+          "score": "2-2"
+        },
+        {
+          "jornada": 2,
+          "rival": "Villarreal",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/449.png",
+          "home": false,
+          "date": "2024-08-28",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 3,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-09-09",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 4,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-09-16",
+          "time": null,
+          "result": "loss",
+          "score": "0-2"
+        },
+        {
+          "jornada": 5,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-09-19",
+          "time": null,
+          "result": "loss",
+          "score": "1-3"
+        },
+        {
+          "jornada": 6,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": false,
+          "date": "2024-09-23",
+          "time": null,
+          "result": "loss",
+          "score": "2-0"
+        },
+        {
+          "jornada": 7,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": true,
+          "date": "2024-09-27",
+          "time": null,
+          "result": "loss",
+          "score": "2-3"
+        },
+        {
+          "jornada": 8,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": false,
+          "date": "2024-10-17",
+          "time": null,
+          "result": "win",
+          "score": "3-1"
+        },
+        {
+          "jornada": 9,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": true,
+          "date": "2024-10-20",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 10,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": false,
+          "date": "2024-10-24",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 11,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-10-29",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 12,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": false,
+          "date": "2024-11-07",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 13,
+          "rival": "Villarreal",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/449.png",
+          "home": true,
+          "date": "2024-11-18",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Betis",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/185.png",
+          "home": false,
+          "date": "2024-11-30",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Valencia CF",
+    "stadium": "Estadio de Mestalla",
+    "city": "Valencia",
+    "coach": "Rubén Baraja",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Barcelona",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/178.png",
+          "home": false,
+          "date": "2024-08-17",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 2,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": true,
+          "date": "2024-08-22",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 3,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": false,
+          "date": "2024-09-11",
+          "time": null,
+          "result": "win",
+          "score": "1-0"
+        },
+        {
+          "jornada": 4,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": true,
+          "date": "2024-09-14",
+          "time": null,
+          "result": "loss",
+          "score": "1-4"
+        },
+        {
+          "jornada": 5,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": false,
+          "date": "2024-09-17",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 6,
+          "rival": "Espanyol",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/177.png",
+          "home": true,
+          "date": "2024-09-27",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 7,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": false,
+          "date": "2024-09-29",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 8,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-10-08",
+          "time": null,
+          "result": "draw",
+          "score": "2-2"
+        },
+        {
+          "jornada": 9,
+          "rival": "Villarreal",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/449.png",
+          "home": false,
+          "date": "2024-10-18",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 10,
+          "rival": "Athletic",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png",
+          "home": true,
+          "date": "2024-10-28",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 11,
+          "rival": "Rayo",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+          "home": false,
+          "date": "2024-10-30",
+          "time": null,
+          "result": "loss",
+          "score": "2-3"
+        },
+        {
+          "jornada": 12,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": true,
+          "date": "2024-11-05",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 13,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": false,
+          "date": "2024-11-10",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-11-27",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Real Valladolid",
+    "stadium": "Estadio José Zorrilla",
+    "city": "Valladolid",
+    "coach": "Paulo Pezzolano",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Espanyol",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/177.png",
+          "home": true,
+          "date": "2024-08-17",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 2,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": false,
+          "date": "2024-08-25",
+          "time": null,
+          "result": "loss",
+          "score": "0-3"
+        },
+        {
+          "jornada": 3,
+          "rival": "Athletic",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png",
+          "home": true,
+          "date": "2024-09-03",
+          "time": null,
+          "result": "win",
+          "score": "1-0"
+        },
+        {
+          "jornada": 4,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": false,
+          "date": "2024-09-09",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 5,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": true,
+          "date": "2024-09-19",
+          "time": null,
+          "result": "loss",
+          "score": "1-3"
+        },
+        {
+          "jornada": 6,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": false,
+          "date": "2024-09-23",
+          "time": null,
+          "result": "draw",
+          "score": "0-0"
+        },
+        {
+          "jornada": 7,
+          "rival": "Leganés",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/957.png",
+          "home": true,
+          "date": "2024-09-30",
+          "time": null,
+          "result": "loss",
+          "score": "1-3"
+        },
+        {
+          "jornada": 8,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": false,
+          "date": "2024-10-04",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 9,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-10-18",
+          "time": null,
+          "result": "loss",
+          "score": "0-1"
+        },
+        {
+          "jornada": 10,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": false,
+          "date": "2024-10-23",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 11,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": true,
+          "date": "2024-10-28",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 12,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": false,
+          "date": "2024-11-07",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 13,
+          "rival": "Athletic",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png",
+          "home": true,
+          "date": "2024-11-13",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": false,
+          "date": "2024-11-20",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Villarreal CF",
+    "stadium": "Estadio de la Cerámica",
+    "city": "Villarreal",
+    "coach": "Quique Setién",
+    "img": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/192.png",
+    "matches": [
+      [
+        {
+          "jornada": 1,
+          "rival": "Atlético",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/175.png",
+          "home": false,
+          "date": "2024-08-10",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 2,
+          "rival": "Sevilla",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/179.png",
+          "home": true,
+          "date": "2024-08-13",
+          "time": null,
+          "result": "win",
+          "score": "2-1"
+        },
+        {
+          "jornada": 3,
+          "rival": "Celta",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/176.png",
+          "home": false,
+          "date": "2024-09-04",
+          "time": null,
+          "result": "loss",
+          "score": "3-4"
+        },
+        {
+          "jornada": 4,
+          "rival": "Real Madrid",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/186.png",
+          "home": true,
+          "date": "2024-09-16",
+          "time": null,
+          "result": "loss",
+          "score": "0-3"
+        },
+        {
+          "jornada": 5,
+          "rival": "Athletic",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/174.png",
+          "home": false,
+          "date": "2024-09-19",
+          "time": null,
+          "result": "loss",
+          "score": "2-3"
+        },
+        {
+          "jornada": 6,
+          "rival": "Mallorca",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/181.png",
+          "home": true,
+          "date": "2024-09-21",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 7,
+          "rival": "Getafe",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/1450.png",
+          "home": false,
+          "date": "2024-09-28",
+          "time": null,
+          "result": "loss",
+          "score": "1-2"
+        },
+        {
+          "jornada": 8,
+          "rival": "Valencia",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/191.png",
+          "home": true,
+          "date": "2024-10-02",
+          "time": null,
+          "result": "win",
+          "score": "3-1"
+        },
+        {
+          "jornada": 9,
+          "rival": "Real Sociedad",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/188.png",
+          "home": false,
+          "date": "2024-10-22",
+          "time": null,
+          "result": "draw",
+          "score": "1-1"
+        },
+        {
+          "jornada": 10,
+          "rival": "Rayo",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/184.png",
+          "home": true,
+          "date": "2024-10-29",
+          "time": null,
+          "result": "win",
+          "score": "2-0"
+        },
+        {
+          "jornada": 11,
+          "rival": "Girona",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/2893.png",
+          "home": false,
+          "date": "2024-10-30",
+          "time": null,
+          "result": "loss",
+          "score": "0-3"
+        },
+        {
+          "jornada": 12,
+          "rival": "Osasuna",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/450.png",
+          "home": true,
+          "date": "2024-11-07",
+          "time": null,
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 13,
+          "rival": "Las Palmas",
+          "imgAway": "https://e00-marca.uecdn.es/assets/sports/logos/football/png/72x72/407.png",
+          "home": false,
+          "date": "2024-11-09",
+          "time": "21:00",
+          "result": "scheduled",
+          "score": null
+        },
+        {
+          "jornada": 14,
+          "rival": "Alavés",
+          "imgAway": "https://e00-us-marca.uecdn.es/assets/sports/logos/football/png/72x72/173.png",
+          "home": true,
+          "date": "2024-11-29",
+          "time": "18:30",
+          "result": "scheduled",
+          "score": null
+        }
+      ]
+    ]
+  }
+]
+}
